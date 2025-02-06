@@ -1,0 +1,17 @@
+{
+    "name": "krdenas/jmmc_demo",
+    "require-dev": {
+        "tourcms/tourcms-php": "4.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Krdenas\\JmmcDemo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Juanjo Montoro"
+        }
+    ],
+    "require": {}
+}
